@@ -759,7 +759,7 @@ input[type="radio"]:focus {
 /* STORIES */
 
 .stories__subtitle {
-    margin-bottom: 101px;
+    margin-bottom: 100px;
 }
 
 
@@ -771,7 +771,7 @@ input[type="radio"]:focus {
 
 .stories__list .story-card:nth-child(1) {
     position: relative;
-    margin-bottom: 50px;
+    margin-bottom: 49px;
     overflow: hidden;
 }
 
@@ -789,7 +789,7 @@ input[type="radio"]:focus {
 }
 
 .stories__list .story-card:nth-child(2) {
-    margin-bottom: 50px;
+    margin-bottom: 49px;
     position: relative;
     overflow: hidden;
 }
